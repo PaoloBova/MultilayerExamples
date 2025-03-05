@@ -1,3 +1,5 @@
+using DrWatson
+@quickactivate "MultilayerExamples"
 
 # Next, we should use Agents.jl to simulate the change in strategies played
 # in a prisoner's dilemma over time.
